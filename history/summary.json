@@ -22,17 +22,19 @@
     "url": "https://www.cloudflare.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudflare.com.ico",
     "slug": "cloudflare",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 246,
-    "timeWeek": 354,
-    "timeMonth": 370,
-    "timeYear": 378,
-    "dailyMinutesDown": {}
+    "time": 370,
+    "timeDay": 159,
+    "timeWeek": 319,
+    "timeMonth": 359,
+    "timeYear": 370,
+    "dailyMinutesDown": {
+      "2026-03-14": 0
+    }
   }
 ]
